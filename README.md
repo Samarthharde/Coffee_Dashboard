@@ -8,7 +8,7 @@
 This dashboard has been designed to present key insights about the operations of three stores within our coffee chain. It serves as a valuable tool to facilitate discussions with the regional manager and other higher-ups. The primary goal is to optimize store operations, improve efficiency, and drive better performance across all locations.
 
 # ⚙ TOOLS USED
-[<img src="microsoftexcelicon.webp" alt="Excel Logo" width="70" height="70">](microsoftexcelicon.webp) &nbsp;
+[<img src="Excel.jpg" alt="Excel Logo" width="70" height="70">](Excel.jpg) &nbsp;
 
  Microsoft Excel
 
