@@ -1,7 +1,5 @@
-# Coffee_Dashboard
-
 # COFFEE SALES DASHBOARD
-![](starbucks.jpg)
+![](Starbucks.jpg)
 
 
 
