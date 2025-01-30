@@ -42,4 +42,4 @@ Recommendations
 - Inventory Optimization: Review inventory of underperforming products and consider reducing stock to save costs.
 
 # 📊 DASHBOARD
-![](CoffeeSalesDash.png)
+![]()
